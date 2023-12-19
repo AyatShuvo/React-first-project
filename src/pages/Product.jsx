@@ -18,6 +18,7 @@ function Product() {
     ] 
     return(
         <div>
+            <h1 className="text-5xl font-bold text-center text-red-500">Product Page</h1>
             <Header menu={menuProduct}/>
             
 

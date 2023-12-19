@@ -18,6 +18,7 @@ function Contact() {
     ] 
     return(
         <div>
+            <h1 className="text-5xl font-bold text-center text-red-500">Contact Page</h1>
             <Header menu={menuContact}/>
             
 

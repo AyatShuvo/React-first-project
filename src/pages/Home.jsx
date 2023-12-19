@@ -13,8 +13,9 @@ function Home() {
     ] 
     return (
         <main>
+            <h1 className="text-5xl font-bold text-center text-red-500">Home Page</h1>
                 <Header menu ={menuHome}/>
-            <h1 className="text-2xl text-center text-gray-900 dark:text-white">Home Page</h1>
+            
             <div></div>
         </main>
     )

@@ -18,9 +18,10 @@ function About() {
     ] 
     return(
         <div>
+            <h1 className="text-5xl font-bold text-center text-red-500">About Page</h1>
             <Header menu={menu}/>
             
-            <h1 className="text-2xl text-center">About Page</h1>
+            
         </div>
     )
 }

@@ -3,11 +3,10 @@ import About from "./pages/About"
 import Product from "./pages/Product"
 import Contact from "./pages/Contact"
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
+
 const App=()=> {
 
-
   return (
-
 
 <Router>
 
